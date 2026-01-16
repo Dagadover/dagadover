@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniel Aguiñaga 👋
 
-📊 Data Analyst | A/B Testing | Product & Business Analytics
+📊 Data Analyst
 
 I’m a Data Analyst focused on transforming raw data into clear, actionable insights that support product and business decisions.
 
