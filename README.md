@@ -39,5 +39,5 @@ I’m a Data Analyst focused on transforming raw data into clear, actionable ins
 
 ### 🔗 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/danielaguinaga/)
-- 📂 [Portfolio](https://dagadover.github.io/Portafolio)
+- 📂 [Portfolio](https://dagadover.github.io/Portafolio_Analisis_de_Datos/)
 - 📄 [CV](https://dagadover.github.io/Portafolio_Analisis_de_Datos/CV_Daniel_Aguinaga_DA_2026.pdf)
