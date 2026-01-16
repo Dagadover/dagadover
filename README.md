@@ -1,25 +1,43 @@
-## 👋 Hi, I’m Daniel Aguiñaga
+## Hi there, I'm Daniel Aguiñaga 👋
 
-Data Analyst focused on turning data into clear, actionable business decisions.
+📍 Mexico  
+📊 Data Analyst | A/B Testing | Product & Business Analytics
 
-### 📊 What I do
+I’m a Data Analyst focused on transforming raw data into clear, actionable insights that support product and business decisions.
+
+---
+
+### 🧠 What I Do
 - Exploratory data analysis, cleaning, and validation  
 - A/B testing and statistical analysis for product evaluation  
-- Dashboard development for stakeholders  
+- Funnel, conversion, and performance analysis  
+- Dashboard creation for stakeholders and decision-makers  
 - Automation of recurring reports and analyses  
 
-### 🧰 Tech Stack
-- **Python** (pandas, numpy, matplotlib, seaborn)  
-- **SQL**  
-- **Power BI / Tableau**  
-- **Advanced Excel**  
+---
+
+### 🧰 Technologies & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,excel" />
+</p>
+
+- **Python** (pandas, numpy, matplotlib, seaborn)
+- **SQL**
+- **Power BI / Tableau**
+- **Advanced Excel**
 - **Git & GitHub**
 
-### 🚀 Hands-on Experience
-- Analysis of A/B experiments with statistically significant results  
-- Funnel and conversion analysis for product and growth decisions  
-- Data-driven recommendations on feature implementation  
-- End-to-end projects from raw data to executive-level insights  
+---
 
-### 🎯 Looking for
-Junior / Trainee Data Analyst roles where I can contribute strong analytical skills, critical thinking, and a business-oriented mindset, while continuing to grow in product analytics.
+### 🚀 Experience Highlights
+- Analyzed A/B experiments with statistically significant results  
+- Identified conversion drops and validated impact using confidence intervals and p-values  
+- Delivered data-driven recommendations for feature implementation  
+- Built end-to-end projects from raw data to executive-ready insights  
+
+---
+
+### 🔗 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/danielaguinaga/)
+- 📂 [Portfolio](https://dagadover.github.io/Portafolio)
+- 📄 [CV](https://dagadover.github.io/Portafolio_Analisis_de_Datos/CV_Daniel_Aguinaga_DA_2026.pdf)
