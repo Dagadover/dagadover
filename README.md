@@ -23,7 +23,7 @@ I’m a Data Analyst focused on transforming raw data into clear, actionable ins
 
 - **Python** (pandas, numpy, matplotlib, seaborn)
 - **SQL**
-- **Power BI / Tableau**
+- **Tableau**
 - **Advanced Excel**
 - **Git & GitHub**
 
