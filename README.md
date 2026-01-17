@@ -2,7 +2,7 @@
 
 📊 Data Analyst
 
-I’m a Data Analyst focused on transforming raw data into clear, actionable insights that support product and business decisions.
+focused on transforming raw data into clear, actionable insights that support product and business decisions.
 
 ---
 
