@@ -39,4 +39,4 @@ focused on transforming raw data into clear, actionable insights that support pr
 ### 🔗 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/danielaguinaga/)
 - 📂 [Portfolio](https://dagadover.github.io/Portafolio_Analisis_de_Datos/)
-- 📄 [CV](https://drive.google.com/file/d/1UQKPVs7--ya_DkttYtap6Ga8qgi4dFl8/view?usp=sharing)
+- 📄 [CV]([https://drive.google.com/file/d/1UQKPVs7--ya_DkttYtap6Ga8qgi4dFl8/view?usp=sharing](https://drive.google.com/file/d/1g34t3ZDi5x2VMWLxWU2qYDoAq2Q0XQel/view?usp=sharing))
